@@ -93,7 +93,7 @@
                          &kp LGUI  &mo MAC_LOWER &kp SPACE  &kp RET &mo MAC_RAISE  &kp RALT >;
                 };
 
-                raise_layer {
+                mac_raise_layer {
 // -----------------------------------------------------------------------------------------
 // | ESC  |  !     |  @     |  #     |  $      |  %      |   |  ^  |  &     |  *  |  (  |  )  | BKSP |
 // | TAB  |  PREV  |  PLAY  |  PREV  |  VOL -  |  VOL +  |   |  -  |  =     |  [  |  ]  |  \  |  `   |
@@ -108,7 +108,7 @@
                         >;
                 };
 
-                lower_layer {
+                mac_lower_layer {
 // -----------------------------------------------------------------------------------------
 // | ESC   |  1    |  2     |  3      |  4      |  5     |   |  6    | 7     |  8    |  9    |  0         |   BKSP    |
 // | TAB   |  GUI  |  LALT  |  LCTRL  |  LSHIFT |  NONE  |   | HOME  | NONE  |  UP   | NONE  |  PAGE UP   |   DEL     |
